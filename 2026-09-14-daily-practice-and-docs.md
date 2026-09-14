@@ -1,8 +1,9 @@
 # Day 3: a smarter daily practice, and a window into how it all works
 
-Two things came together today: the app got noticeably better at deciding what a child should
-practice each day, and parents and teachers got a proper way to see how the whole system works,
-without leaving the app or digging through a code repository to find out.
+Three things came together today: the app got noticeably better at deciding what a child should
+practice each day, parents and teachers got a proper way to see how the whole system works
+without leaving the app, and parents got a place of their own inside it — one that also makes
+sure a child's progress can survive losing a phone or switching to a new one.
 
 **Building a session that actually adapts**
 
@@ -53,3 +54,31 @@ way back to it whenever they're done reading.
 
 Small on its own, but it's the first time this project has had a proper front door for the people
 deciding whether to trust it with their kids' practice time — not just for the kids using it.
+
+**A place of their own, and a way to never lose it**
+
+That new front door didn't stay empty for long. Alongside it, parents now get their own area
+inside the app — separate from both the practice screens and the documentation — with a simple
+report showing how their child is actually doing, competency by competency, in real numbers
+rather than a vague sense of progress. It's deliberately plain for now: no charts or history yet,
+just an honest current reading, with a clear "nothing to show yet" message for a child who hasn't
+started practicing. The graphs and trend lines are a natural next step, but getting an accurate
+number in front of parents mattered more than making it pretty on day one.
+
+The more important piece living in that same area is quieter, but it's the one that actually
+protects something: a way to export a child's entire practice history — their profile and every
+recorded answer that feeds the mastery numbers — into a single file, and bring that same file back
+in on another device. Losing a phone, switching to a new one, or just wanting a backup before
+handing a tablet down to a younger sibling no longer means a child's progress vanishes with it.
+Import even works before a single profile exists yet on the new device — restoring a backup is
+exactly the situation where there's nothing there to begin with, so it had to work from a
+completely blank slate, not just as a convenience for an already-set-up one.
+
+The detail that took the most care wasn't the export itself — it was making sure a file exported
+today still works after this project has changed several times over. Every exported file carries
+a version marker, and the app is built to always understand its own older files rather than
+quietly failing to read them a year from now. If a file ever comes from a version newer than what
+a particular device is running — say, a backup made on a freshly updated phone, brought back to an
+older one — the import says so plainly and stops, instead of guessing and getting it wrong. A
+backup you can't trust isn't really a backup at all, so that guarantee mattered more than almost
+anything else about how this was built.
