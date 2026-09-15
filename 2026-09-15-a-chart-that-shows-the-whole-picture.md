@@ -217,4 +217,50 @@ different topics at once, each possibly sitting at a different level, every ques
 session quietly notes which skill and which level it belongs to — so nobody watching is left
 wondering whether the question on screen right now is easy warm-up addition or the hard end of
 division.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+That one-grade-per-child setting also got easier to find and use today. A child's grade now sits
+right next to their name wherever their profile shows up, so a parent glancing at the list of kids
+can tell at a glance who's in Grade 2 and who's in Grade 5 without opening anything else. And
+setting it no longer waits until after a profile exists: a parent choosing a grade can now do so
+in the very same moment they add a new child, right alongside typing in their name — or, just as
+before, leave it for later and set or change it anytime from the Parent Area.
+
+The practice screen got a small tidy-up too. With ten different activities now on offer — four
+number operations plus six starting-line basics — listing every single one, every time, before a
+child has even picked what to practice was more clutter than help. That full list now stays
+tucked away behind a simple "choose activities" line until someone actually taps it open, and once
+a few are picked it quietly reports back how many are selected, so it's obvious at a glance that a
+choice has been made without the whole list needing to stay in view.
+
+**Beyond arithmetic: eight new ways to build number sense**
+
+Everything practiced so far — addition, subtraction, multiplication, division — is really just
+arithmetic wearing different hats. But being genuinely comfortable with numbers takes more than
+knowing how to add and multiply them. Can a child count on confidently past a hundred, then a
+thousand, then further still? Do they know a number is odd or even at a glance? Can they place
+"third" and "3" as two ways of saying the same thing? Do they understand what a negative number
+means — that a temperature of minus five is colder than minus two, not the other way round? None of
+that was practicable in the app until today, even though a fair bit of it was already sitting there
+as reference text for a parent to read. Today it became something a child can actually *do*.
+
+Eight new activities now cover this ground, spread across the school years the way the numbers
+themselves naturally get bigger and trickier. The youngest of these pick up right where counting
+and ordering numbers leave off in the earlier grades — counting forward and backward from any
+starting point, reading and writing numbers that stretch from the hundreds into the millions,
+counting in twos, fives and tens, telling odd from even, and using ordinal words like "first" and
+"tenth" correctly. A little further up, children meet negative numbers for the first time, framed
+in ways that actually mean something to a child — a number line, a run of cold days, who owes more
+pocket money. And by the last couple of years of primary school, the practice turns to the more
+grown-up end of number sense: spotting a prime number, finding the factors that divide evenly into
+another number, recognising square numbers, and — as something of a bonus, since children seem to
+love it — reading and writing Roman numerals.
+
+Each of these behaves exactly like every other activity in the app already does: it starts at
+whatever level suits where a child currently is, and quietly gets harder or easier on its own as
+they keep practicing, the same automatic adjustment described above for addition and the other
+operations. A child who's flying through counting big numbers but still shaky on odd-and-even isn't
+held to one pace across both — each skill, as always, finds its own level independently. And every
+one of these eight new activities shows up wherever a child's other progress already does: the same
+chart, the same table, the same small tag on the home screen naming the skill, the level, and how
+it's going. Nothing new for a parent to learn how to read — just more of the whole picture filled
+in, this time in the corners beyond plain arithmetic.
