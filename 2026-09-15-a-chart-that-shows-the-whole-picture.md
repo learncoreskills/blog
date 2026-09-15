@@ -102,3 +102,23 @@ clock pressuring a child to hurry. Every answer, right or wrong, quietly feeds i
 mastery picture described above, so a child's growing command of subtraction, multiplication, and
 division will start showing up on their own chart the same way addition already does — one more
 spoke on the web filling in, level by level.
+
+**One session, several kinds of questions**
+
+With four operations now on offer, picking just one at a time before starting to practice started
+to feel like an unnecessary chore — so today that changed too. Instead of choosing a single
+operation from a list, a child now ticks a box for each one they want in today's session: addition
+alone, or addition and multiplication together, or all four at once. Whatever's ticked, a session
+still asks ten questions in total, shuffled together rather than done in tidy blocks, so it feels
+like real mixed practice rather than four separate mini-tests taped end to end. And each operation
+keeps climbing its own five steps of difficulty independently — a child cruising through their
+times tables but still building up subtraction isn't held back waiting for one to catch up with the
+other; every ticked box moves at its own pace.
+
+While that screen was being rebuilt, one small bit of housekeeping came along with it: those five
+steps of difficulty, which used to go by an internal word ("tier") that never actually appeared
+anywhere a parent would notice, are now labeled "grade" everywhere a child or parent might see
+them — the same word this morning's chart already uses for a child's year and for the target it's
+measured against, rather than two near-identical words doing the same job in different corners of
+the app. Nothing about a child's saved progress changes; it's exactly the same history, just
+described consistently.
