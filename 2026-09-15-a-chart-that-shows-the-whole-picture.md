@@ -78,3 +78,27 @@ flagged as general reference — useful as a map of what's ahead, not a record o
 particular child has or hasn't done yet. A parent can still read, in full, what a solid Grade 3 or
 a solid Grade 5 looks like across all of it — the app just isn't pretending to be the one keeping
 score outside of maths, not yet.
+
+**Three more ways to practice numbers in your head**
+
+Everything above is about *seeing* progress. The other piece of today's work is about *making*
+some — a child practicing addition has, until now, been the only game in town. Today, subtraction,
+multiplication, and division joined it, so a child working through their daily practice now meets
+all four basic operations, not just one.
+
+Subtraction shows up as the natural undo button for addition: the same kind of quick-fire questions,
+building from simple single-digit sums with no regrouping up through bigger numbers that need real
+borrowing, at whatever level currently suits the child answering them. Multiplication starts with
+the easy times tables and works its way up to the trickier ones, and division sits right alongside
+it as its mirror image — the same facts, asked backwards, so a child who's just nailed "6 × 8 = 48"
+meets "48 ÷ 6 = ?" as something already familiar rather than a brand-new skill to learn from
+scratch. Each of the three, like addition before them, climbs through five levels of its own, from
+gentle starting points to a proper mental workout, so a child is never stuck answering questions
+that are far too easy or hopelessly hard for where they currently are.
+
+The experience matches addition's in every other way too: one question at a time, an answer typed
+in, and an immediate "yes, that's right" or a gentle reveal of the correct answer — never a ticking
+clock pressuring a child to hurry. Every answer, right or wrong, quietly feeds into the same
+mastery picture described above, so a child's growing command of subtraction, multiplication, and
+division will start showing up on their own chart the same way addition already does — one more
+spoke on the web filling in, level by level.
