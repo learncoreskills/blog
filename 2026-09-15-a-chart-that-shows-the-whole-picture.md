@@ -185,4 +185,36 @@ Up until today, a child could think for as long as they needed on a question. Th
 Why a timer at all? Speed isn't the goal — fluency is. A child who has to think through "5 + 3 =" every single time hasn't truly *learned* addition yet; they're computing it, laboring through the same steps over and over. Real mastery means the answer bubbles up automatically, without conscious effort. A timer isn't there to hurry anyone along; it's there to gently nudge practice toward that real, automatic fluency. A child who's ready for a fact shouldn't need thirty seconds to answer it, and if they do, that fact might still need more practice at an easier level before it settles into something they truly *know*.
 
 The timer also makes sure every practice session is finite. Without one, it would be possible for a child to sit on a single question forever, which wouldn't help anyone — not the child learning, and not a parent trying to see whether real progress is actually happening. Now, if thirty seconds pass without an answer, the app moves right along to the next question anyway, marking that one as a chance to learn rather than as a wrong move that "counts against" them. The data still shows parents and teachers exactly what happened — whether a child chose to skip by not answering in time, or submitted something wrong, or got it right quickly — so the app's picture of mastery still stays honest either way.
+
+**Every skill finds its own level, automatically**
+
+Since subtraction, multiplication and division joined addition a few days ago, starting a practice
+session meant answering two questions instead of one: which topic to practice, and which of five
+difficulty grades to attempt it at. That second question was always a bit of a guess — how is a
+parent supposed to know their child is ready for grade 3 subtraction specifically, as opposed to
+grade 2 or grade 4? Today that guesswork disappeared entirely.
+
+A parent now sets only one grade, ever, for a child: whichever year of school they're actually in,
+chosen right there in the child's own profile. Every topic then starts at that grade automatically
+the very first time a child tries it — no separate dial to set correctly for each one. From that
+starting point, each topic quietly finds its own right level on its own: a few strong sessions in a
+row and it nudges up a notch; a rough patch and it eases back down; anything in between and it just
+holds steady where it is. Crucially, every topic does this entirely on its own, independent of
+every other one a child is working on. A child who breezes through addition might end up working a
+couple of years ahead of their actual grade there, while still building up multiplication much more
+gently — and that's exactly as it should be. The app was always designed around the idea that a
+child's skills don't all arrive in lockstep; now the difficulty a child practices at finally keeps
+up with that idea on its own, instead of asking a parent to guess correctly, topic by topic, every
+single time.
+
+That change touched two other small but useful spots. The main screen used to show a single
+"mastery: X%" line for just one topic, addition, while every other topic's progress stayed out of
+sight until a parent went looking for it in the reports. Now every topic a child has actually tried
+gets its own small tag right there on the main screen — its name, the level it's currently working
+at, and how it's going — so a glance at the home screen tells the whole story instead of a quarter
+of it. And because a single practice session can now shuffle together questions from several
+different topics at once, each possibly sitting at a different level, every question during a
+session quietly notes which skill and which level it belongs to — so nobody watching is left
+wondering whether the question on screen right now is easy warm-up addition or the hard end of
+division.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
