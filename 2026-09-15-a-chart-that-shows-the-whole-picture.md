@@ -52,3 +52,29 @@ being just as honest about what isn't being measured, felt more important than m
 look more complete than the app actually is today. Think of it as a preview of where this project
 is headed — a map of the whole territory, with just one region properly surveyed so far, and
 markers on the rest to show what's still ahead rather than pretending it's already been covered.
+
+**What's actually behind those unlit spokes**
+
+That second chart raises an obvious question, though: fine, "not tracked yet" — but what *is* a
+child supposed to be able to do in each of those areas, by each age? Pointing at an unlit spoke
+labeled "science" or "money" without saying more isn't much use to a parent trying to plan. So the
+parent area gained a second, much plainer addition today: a full written answer to "what should my
+child be able to do, subject by subject, year by year?" — covering not just maths but the entire
+map from yesterday's chart, spelled out in plain language.
+
+Open it and every subject is listed by name — reading, science, money, cooking, first aid, music,
+a second language, and everything else a well-rounded primary education might reasonably cover —
+each one collapsed to just its name, so the list doesn't read as a wall of text before you've asked
+for anything. Tap on one and it opens out into what a child is typically expected to manage by the
+end of each year of primary school: concrete, specific things, not vague goals — "swims 25 metres
+unaided" rather than "is comfortable in water," "reads a bus or train timetable and plans a
+journey" rather than "understands schedules." Close it again and it tucks itself away, so looking
+up one thing about geography doesn't leave nine other subjects sprawled open on the screen at the
+same time.
+
+Maths keeps its own honest label here too, same as on the chart: it's marked as the one subject the
+app is actually measuring a child's real progress against, while every other subject is clearly
+flagged as general reference — useful as a map of what's ahead, not a record of what this
+particular child has or hasn't done yet. A parent can still read, in full, what a solid Grade 3 or
+a solid Grade 5 looks like across all of it — the app just isn't pretending to be the one keeping
+score outside of maths, not yet.
