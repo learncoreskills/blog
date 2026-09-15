@@ -146,4 +146,35 @@ and year was based on their 10 most recent answers; from today it's based on the
 Ten answers is enough to be thrown off by one unlucky bad morning or one lucky guessing streak;
 fifty gives a much steadier, more honest read on how solidly a skill has actually settled in,
 without reaching so far back that an old, since-outgrown mistake still drags today's score down.
+
+**A starting point for children not quite in Grade 1 yet**
+
+Everything above assumes a child is already ticking along through Grade 1 and up. But plenty of
+children using this app are younger than that — still building the everyday number sense a Grade 1
+classroom will later build on: counting a handful of toys one by one, glancing at three dots and
+just knowing it's three without counting, telling which of two piles has more, naming the numeral
+"7" on sight, or knowing that lunchtime comes after morning and before evening.
+
+Today those skills got their own proper home in the app, sitting one step before Grade 1 rather
+than folded into it or left out entirely. Ten specific everyday skills — counting to twenty,
+recognising quantities at a glance, comparing two groups, naming written digits, adding and taking
+away with real objects in front of you, comparing things directly (which is longer, which is
+heavier, which holds more), knowing the order of a day, naming the days of the week, naming the
+four basic shapes, and using words like "on," "under," "next to" and "between" correctly — now have
+real practice behind them, sorted into six focused activities a child can pick from just like any
+other.
+
+A child sees the exact same practice-then-feedback rhythm as everywhere else in the app: pick an
+activity, answer a question — sometimes typed in, sometimes just tapped from a couple of picture
+options — and get an immediate, encouraging "yes!" or a gentle "not quite, here's the answer." A
+parent, in turn, finds this new starting tier sitting right alongside today's chart and table:
+choose it instead of a school year in that same selector described above, and the same web-shaped
+chart redraws itself around these ten skills instead, with the same table underneath filling in
+real scores as a child actually practices. Nothing new to learn on the parent's side — just one
+more tier the same chart and table already know how to show.
+
+It's meant as a genuine starting line, not a locked gate. A child is never made to "finish" this
+tier before touching Grade 1 content, and a child already comfortable with some Grade 1 skills can
+just as happily dip into this tier for whatever's still catching up. Practice, here as everywhere
+else in the app, moves at each child's own pace, on whichever skills actually need it.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
