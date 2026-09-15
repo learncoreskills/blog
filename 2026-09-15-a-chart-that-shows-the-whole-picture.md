@@ -122,3 +122,28 @@ them — the same word this morning's chart already uses for a child's year and 
 measured against, rather than two near-identical words doing the same job in different corners of
 the app. Nothing about a child's saved progress changes; it's exactly the same history, just
 described consistently.
+
+**A table to go with the picture**
+
+A chart is the right tool for spotting a shape at a glance, but it's the wrong tool the moment a
+parent actually wants the number — "no really, what's their multiplication score, exactly?" — and
+today the advancement report gained the answer to that question too: a plain table sitting right
+below the charts, one row per skill a child has actually practiced, and one column for each of the
+five school years, G1 through G5.
+
+A skill a child hasn't touched yet doesn't get a row at all — there's nothing to show, so nothing
+is shown, rather than cluttering the table with a wall of zeroes for things never attempted. And
+within a row that does appear, a year the child hasn't reached enough practice at yet is left
+blank rather than printed as "0%", for the same reason the chart already avoids a misleading zero:
+a blank means "hasn't been tried enough to say," not "failing." Only once a real score exists does
+a number show up in that cell. The chart stays the best way to see the overall shape at a glance;
+this table is for the moment a parent wants to read off the exact figure behind one particular
+spoke.
+
+Alongside the table, every mastery score in the app — the chart, the summary line above it, and
+now the table too — got a quiet accuracy upgrade. Until today, a child's score for a given skill
+and year was based on their 10 most recent answers; from today it's based on their 50 most recent.
+Ten answers is enough to be thrown off by one unlucky bad morning or one lucky guessing streak;
+fifty gives a much steadier, more honest read on how solidly a skill has actually settled in,
+without reaching so far back that an old, since-outgrown mistake still drags today's score down.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
