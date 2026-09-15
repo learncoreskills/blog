@@ -82,3 +82,41 @@ a particular device is running — say, a backup made on a freshly updated phone
 older one — the import says so plainly and stops, instead of guessing and getting it wrong. A
 backup you can't trust isn't really a backup at all, so that guarantee mattered more than almost
 anything else about how this was built.
+
+**Drawing the whole map, not just the part we're building**
+
+The last piece of today's work isn't a feature at all. It's a document — but it's the one that
+quietly decides what this project is allowed to become.
+
+The app builds mathematics first, and will for a long while. But "primary-school maths" is a
+strange thing to build in isolation, because it's a slice of something much larger that nobody
+usually writes down in one place: the full set of things a child could reasonably be expected to
+be able to do by the time primary school ends. So we wrote it down. All of it — just under a
+thousand individual skills, across twenty areas, each one tagged with the school year by the end
+of which a child should own it, starting from what's already expected before the first day of
+Grade 1.
+
+Maths and reading are in there in the detail you'd expect. What's more interesting is everything
+around them. Swimming a hundred metres unaided. Riding a bicycle safely on a road. Cooking a hot
+meal for the family. Calling the emergency services and saying clearly where you are. Playing a
+prepared piece from written music in front of other people. Reading a map and a compass and
+actually arriving. Keeping to a budget, and explaining why borrowing money costs more than paying
+cash. Resolving an argument with a friend without an adult stepping in. Roughly half of that list
+isn't taught by any school system anywhere — it's learned at home, or it isn't learned at all, and
+a checklist that quietly leaves it out makes it invisible.
+
+It's deliberately demanding, and no child ticks every box — that isn't the point of it. A ceiling
+set at the average isn't really a ceiling. It's meant to be read as a map of what's out there and
+where the gaps are, never as a bar to measure a particular child against. Every single entry is
+written as something a child can be observed *doing*, rather than something they either have or
+haven't got, and each of the twenty areas ends with one concrete test you could actually watch
+happen.
+
+For the app itself, the document does one specific job: it keeps us honest about the foundations.
+It's easy to build something that claims to handle any subject and has in fact been quietly
+shaped around arithmetic the whole time. Having the full list in front of us makes an awkward
+question unavoidable — how would this system ever record "swims twenty-five metres"? A child can't
+demonstrate that to a phone. Some skills a device can test by itself, some need a parent to watch
+and confirm, and some a child can honestly report themselves. That's a distinction worth building
+into the foundations now, while the foundations are still small enough to change, rather than
+bolting it on the first time a second subject arrives and doesn't fit.
