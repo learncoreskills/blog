@@ -11,3 +11,11 @@ The dropdown itself is simpler to use than clicking individual grade buttons too
 **It's still optional**
 
 The grade you pick when adding a child still isn't locked in stone—parents can change it later in the Parent Area if they got it wrong or if a child gets promoted mid-school-year. But now the app doesn't *hide* that option away; it puts it where you're already looking, in the moment when you're setting up that child's profile for the first time. Less thinking, fewer steps, just the setup parents actually need.
+
+**A clearer front door**
+
+The other change today is about what greets you when you open the app. Until now, the very first screen tried to do everything at once—add or switch a child, pick an activity, and answer questions, all stacked on top of each other. It worked, but it meant the "getting ready" part of the experience and the "actually practicing" part never really separated from one another.
+
+Now, that first screen has one job: help you get the right child selected, and show you what's available to practice. Once a child is active, a short list of subjects appears—for now, that's just Mathematics, since it's the only subject the app teaches today, but the app is built so more can join that list without changing how any of this works. Picking a subject takes you somewhere new: a page that belongs to that subject alone, where the actual activities and practice sessions live. Finish a session there, and you land right back on that same subject's activity list, ready to pick the next one—no detour back through the child-picker in between. There's always a way back to the front door, too, whenever you want to switch children or head off to try something else.
+
+It's a small reorganization, but it sets up something bigger: a home base that scales. Today it's one subject, presented plainly. Down the road, as more subjects come online, this is the layout that lets them show up side by side without the front page getting crowded or confusing.
